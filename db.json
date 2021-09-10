@@ -1,16 +1,17 @@
 {
-   "tokens":[
+   "tokens": [
       {
-            "id":0,
+            "id": 0,
             "description":"Spirit Horse cartoon chracter",
             "image":"https://github.com/AfaqAhsan/testNFT/blob/main/Art/0.png",
-            "external_uri":"https://my-json-server.typicode.com/AfaqAhsan/testNFT/tokens/0",
+                    "external_uri":"https://my-json-server.typicode.com/AfaqAhsan/testNFT/tokens/0",
             "name":"Spirit Horse",
             "level":"stage 1",
             "hp":"100",
             "powers":"run very fast"
-      },{
-            "id":1,
+      },
+      {
+            "id": 1,
             "description":"Frozen cartoon chracter",
             "image":"https://github.com/AfaqAhsan/testNFT/blob/main/Art/1.png",
             "external_uri":"https://my-json-server.typicode.com/AfaqAhsan/testNFT/tokens/1",
@@ -18,7 +19,6 @@
             "level":"stage 1",
             "hp":"120",
             "powers":"ice balls"
-      
       }
    ]
 
