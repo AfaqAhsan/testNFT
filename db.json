@@ -8,7 +8,7 @@
             "name":"Spirit Horse",
             "level":"stage 1",
             "hp":"100",
-            "powers","run very fast"
+            "powers":"run very fast"
       },{
             "id":1,
             "description":"Frozen cartoon chracter",
@@ -17,7 +17,7 @@
             "name":"Frozen",
             "level":"stage 1",
             "hp":"120",
-            "powers","ice balls"
+            "powers":"ice balls"
       
       }
    ]
