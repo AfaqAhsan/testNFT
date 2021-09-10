@@ -1,10 +1,25 @@
 {
    "tokens":[
-   
+      {
             "id":0,
             "description":"Spirit Horse",
-            
-   
+            "image":"https://github.com/AfaqAhsan/testNFT/blob/main/Art/0.png",
+            "external_uri":"https://my-json-server.typicode.com/AfaqAhsan/testNFT/tokens/0",
+            "name":"Spirit Yellow",
+            "level":"stage 1",
+            "hp":"100",
+            "powers","run very fast"
+      },{
+            "id":1,
+            "description":"Spirit Horse",
+            "image":"https://github.com/AfaqAhsan/testNFT/blob/main/Art/0.png",
+            "external_uri":"https://my-json-server.typicode.com/AfaqAhsan/testNFT/tokens/0",
+            "name":"Spirit Yellow",
+            "level":"stage 1",
+            "hp":"100",
+            "powers","run very fast"
+      
+      }
    ]
 
 }
